@@ -19,3 +19,5 @@
     <img align="center" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white"/>
    
 </div> <br/>
+## EMAIL para contato:
+- [arthursilvaleao020606@gmail.com](arthursilvaleao020606@gmail.com)
