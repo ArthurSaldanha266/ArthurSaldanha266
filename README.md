@@ -14,5 +14,5 @@
     <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
     <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
     <img align="center" alt="c" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
-     <img align="center" alt="c" src="https://img.shields.io/badge/logo-javascript-blue?logo=javascript"/>
+     <img align="center" alt="c" src="https://img.shields.io/badge/-javascript-blue?=javascript"/>
 </div> <br/>
